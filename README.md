@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeWithDiego
+- 👋 Hi, I’m Diego 
 - 👀 I’m interested in mobile app development and creating digital stickers.
 - 🌱 I’m currently learning Swift and SwiftUI.
 - 💞️ I’m looking to collaborate on some Swift projects.
